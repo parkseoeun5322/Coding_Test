@@ -16,3 +16,6 @@
   
 * 슬라이딩 윈도우(SlidingWindow)
   * 최솟값 찾기 (FindMinimum.java) - 교재 74페이지
+  
+* 스택과 큐(StackAndQueue)
+  * 오큰수 구하기 (Okunsoo.java) - 교재 86페이
