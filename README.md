@@ -22,3 +22,9 @@
   
 * 버블 정렬(BubbleSort)
   * 버블 소트 프로그램 (BubbleSortProgram.java) - 교재 104페이지
+  
+* 삽입 정렬(InsertionSort)
+  * ATM 인출 시간 계산하기 (CalculateWithdrawalTime.java) - 교재 115페이지
+  
+* 퀵 절렬(QuickSort)
+  * K번째 수 구하기 (KthNumber.java) - 교재 121페이지
