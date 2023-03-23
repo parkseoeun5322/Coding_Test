@@ -28,3 +28,7 @@
   
 * 퀵 절렬(QuickSort)
   * K번째 수 구하기 (KthNumber.java) - 교재 121페이지
+  
+* 병합 정렬(MergeSort)
+  * 수 정렬하기2 (AscendingSort2.java) - 교재 128페이지
+  * 버블 소트 프로그램2(BubbleSortProgram2.java) - 교재 133페이지
