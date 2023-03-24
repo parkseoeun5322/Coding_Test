@@ -35,3 +35,12 @@
   
 * 기수 정렬(RadixSort)
   * 수 정렬하기3 (AscendingSort3.java) - 교재 139페이지
+  
+* 깊이 우선 탐색(DFS)
+  * 신기한 소수 찾기 (FindDecimal.java) - 교재 153페이지
+  * 친구 관계 파악하기 (UnderstandingFriendship.java) - 교재 157페이지
+  
+* 너비 우선 탐색(BFS)
+  * DFS와 BFS 프로그램(DFSAndBFS.java) - 교재 164페이지
+  * 트리의 지름 구하기(DiameterOfTree.java) - 교재 174페이지
+
