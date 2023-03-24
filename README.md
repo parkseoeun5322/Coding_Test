@@ -37,4 +37,5 @@
   * 수 정렬하기3 (AscendingSort3.java) - 교재 139페이지
   
 * 깊이 우선 탐색(DFS)
-  * 신기한 소수 찾기 (FindDecimal.java) - 교재 153
+  * 신기한 소수 찾기 (FindDecimal.java) - 교재 153페이지
+  * 친구 관계 파악하기 (UnderstandingFriendship.java) - 교재 157
