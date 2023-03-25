@@ -44,3 +44,8 @@
   * DFS와 BFS 프로그램(DFSAndBFS.java) - 교재 164페이지
   * 트리의 지름 구하기(DiameterOfTree.java) - 교재 174페이지
 
+* 이진 탐색(BinarySearch)
+  * 블루레이 만들기(MakeBlueray.java) - 교재 186페이지
+  * 배열에서 K번째 수 찾기(FindKthNumberInArray.java) - 교재 190페이지
+
+
