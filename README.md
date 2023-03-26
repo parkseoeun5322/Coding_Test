@@ -64,6 +64,7 @@
 * 유클리드 호제법(EuclideanAlgorithm)
   * 최소 공배수 구하기(LeastCommonMultiple.java) - 교재 237페이지
   * 최대 공약수 구하기(GreatestCommonDivisor.java) - 교재 240페이지
+  * 칵테일 만들기(MakeCocktail.java) - 교재 243
 
 
 
