@@ -53,5 +53,10 @@
   * 수를 묶어서 최댓값 만들기(MaximumOfGroupingNumbers.java) - 교재 203페이지
   * 회의실 배정하기(AllocateMeetingRoom.java) - 교재 207페이지
 
+* 소수 구하기(PrimeNumber)
+  * 거의 소수 구하기(FindGeouiSosu.java) - 교재 220페이지
+  * 소수 & 펠린드롬 수 중에서 최솟값 찾기(MinimumOfPrimeAndFelindrome.java) - 교재 224페이지
+
+
 
 
