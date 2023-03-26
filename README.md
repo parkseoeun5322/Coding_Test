@@ -56,6 +56,7 @@
 * 소수 구하기(PrimeNumber)
   * 거의 소수 구하기(FindGeouiSosu.java) - 교재 220페이지
   * 소수 & 펠린드롬 수 중에서 최솟값 찾기(MinimumOfPrimeAndFelindrome.java) - 교재 224페이지
+  * 제곱이 아닌 수 찾기(FindNonSquareNumber.java) - 교재 227페이지
 
 
 
