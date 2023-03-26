@@ -53,5 +53,19 @@
   * 수를 묶어서 최댓값 만들기(MaximumOfGroupingNumbers.java) - 교재 203페이지
   * 회의실 배정하기(AllocateMeetingRoom.java) - 교재 207페이지
 
+* 소수 구하기(PrimeNumber)
+  * 거의 소수 구하기(FindGeouiSosu.java) - 교재 220페이지
+  * 소수 & 펠린드롬 수 중에서 최솟값 찾기(MinimumOfPrimeAndFelindrome.java) - 교재 224페이지
+  * 제곱이 아닌 수 찾기(FindNonSquareNumber.java) - 교재 227페이지
+
+* 오일러 피(EulerPhi)
+  * 오일러 피 함수 구현하기(FunctionOfEulerPhi.java) - 교재 236페이
+
+* 유클리드 호제법(EuclideanAlgorithm)
+  * 최소 공배수 구하기(LeastCommonMultiple.java) - 교재 237페이지
+  * 최대 공약수 구하기(GreatestCommonDivisor.java) - 교재 240페이지
+  * 칵테일 만들기(MakeCocktail.java) - 교재 243
+
+
 
 
