@@ -9,8 +9,8 @@
 ### 안푼 문제 정리
 
 * 구간 합(PrefixSum)
-  * 구간 합 구하기2 (PrefixSum.java) - 교재 47페이지
-  * 나머지 합 구하기 (SumOfRemainder.java) - 교재 52페이지
+  * ~~구간 합 구하기2 (PrefixSum.java) - 교재 47페이지~~
+  * ~~나머지 합 구하기 (SumOfRemainder.java) - 교재 52페이지~~
   
 * 투 포인터(TwoPointer)
   * '좋은 수' 구하기 (GoodNumber.java) - 교재 63페이지
@@ -27,7 +27,7 @@
 * 삽입 정렬(InsertionSort)
   * ATM 인출 시간 계산하기 (CalculateWithdrawalTime.java) - 교재 115페이지
   
-* 퀵 절렬(QuickSort)
+* 퀵정정렬(QuickSort)
   * K번째 수 구하기 (KthNumber.java) - 교재 121페이지
   
 * 병합 정렬(MergeSort)
