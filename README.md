@@ -13,7 +13,7 @@
   * ~~나머지 합 구하기 (SumOfRemainder.java) - 교재 52페이지~~
   
 * 투 포인터(TwoPointer)
-  * '좋은 수' 구하기 (GoodNumber.java) - 교재 63페이지
+  * ~~'좋은 수' 구하기 (GoodNumber.java) - 교재 63페이지~~
   
 * 슬라이딩 윈도우(SlidingWindow)
   * 최솟값 찾기 (FindMinimum.java) - 교재 74페이지
