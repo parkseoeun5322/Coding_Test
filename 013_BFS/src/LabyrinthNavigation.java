@@ -70,7 +70,7 @@ public class LabyrinthNavigation {
 			for (int k = 0; k < 4; k++) {
 				int x = now[0] + dx[k];
 				int y = now[1] + dy[k];
-				// 유효한 좌표인지 판단 → 배열을 넘어서면 안됨(x가 왼쪽, y가 위쪽을 탐색 X, 그리고 N과 M을 넘어서면 X)
+				// 유효한 좌표인지 판단 → 배열을 넘어서면 안됨(처음부터 x가 왼쪽, y가 위쪽을 탐색 X, 그리고 N과 M을 넘어서면 X)
 				if(x >= 0 && y >= 0 && x < N && y < M) {
 					// 0이어서 갈 수 없거나 방문한 배열이 아니어야 함
 					if(A[x][y] != 0 && !visited[x][y]) {
