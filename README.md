@@ -46,11 +46,11 @@
   * ~~트리의 지름 구하기(DiameterOfTree.java) - 교재 174페이지~~
 
 * 이진 탐색(BinarySearch)
-  * 블루레이 만들기(MakeBlueray.java) - 교재 186페이지
-  * 배열에서 K번째 수 찾기(FindKthNumberInArray.java) - 교재 190페이지
+  * ~~블루레이 만들기(MakeBlueray.java) - 교재 186페이지~~
+  * ~~배열에서 K번째 수 찾기(FindKthNumberInArray.java) - 교재 190페이지~~
 
 * 그리디 알고리즘(GreedyAlgorithm)
-  * 카드 정렬하기(SortCards.java) - 교재 199페이지
+  * ~~카드 정렬하기(SortCards.java) - 교재 199페이지~~
   * 수를 묶어서 최댓값 만들기(MaximumOfGroupingNumbers.java) - 교재 203페이지
   * 회의실 배정하기(AllocateMeetingRoom.java) - 교재 207페이지
 
