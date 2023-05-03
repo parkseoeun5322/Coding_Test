@@ -51,8 +51,8 @@
 
 * 그리디 알고리즘(GreedyAlgorithm)
   * ~~카드 정렬하기(SortCards.java) - 교재 199페이지~~
-  * 수를 묶어서 최댓값 만들기(MaximumOfGroupingNumbers.java) - 교재 203페이지
-  * 회의실 배정하기(AllocateMeetingRoom.java) - 교재 207페이지
+  * ~~수를 묶어서 최댓값 만들기(MaximumOfGroupingNumbers.java) - 교재 203페이지~~
+  * ~~회의실 배정하기(AllocateMeetingRoom.java) - 교재 207페이지~~
 
 * 소수 구하기(PrimeNumber)
   * 거의 소수 구하기(FindGeouiSosu.java) - 교재 220페이지
